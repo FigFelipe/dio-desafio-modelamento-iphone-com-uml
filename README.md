@@ -52,6 +52,8 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 ## Modelamento UML sugerida
 
+![Iphone_uml](src/uml/UML%20IPhone%20-%20Desafio%20DIO.JPG)
+
 ## Desenvolvimento da Estrutura de Classes
 
 O projeto foi estruturado de modo que:
