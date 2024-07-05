@@ -2,7 +2,7 @@ package iphone.apps;
 
 import iphone.features.ReprodutorMusical;
 
-public class Spotfy implements ReprodutorMusical {
+public class Spotify implements ReprodutorMusical {
     @Override
     public void tocar() {
         System.out.println("Tocando musica pelo Spotfy");

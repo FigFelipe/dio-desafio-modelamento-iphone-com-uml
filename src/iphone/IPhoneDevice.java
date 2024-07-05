@@ -9,16 +9,16 @@ public class IPhoneDevice {
     public static void main(String[] args) {
 
         ReprodutorMusical soundCloud = new SoundCloud();
-        ReprodutorMusical spotfy = new Spotfy();
+        ReprodutorMusical spotify = new Spotify();
         ReprodutorMusical youtubeMusic = new YouTubeMusic();
 
         soundCloud.tocar();
         soundCloud.pausar();
         soundCloud.selecionarMusica("Lamb of God - Black Label");
 
-        spotfy.tocar();
-        spotfy.pausar();
-        spotfy.selecionarMusica("Lamb of God - Hourglass");
+        spotify.tocar();
+        spotify.pausar();
+        spotify.selecionarMusica("Lamb of God - Hourglass");
 
         youtubeMusic.tocar();
         youtubeMusic.pausar();
