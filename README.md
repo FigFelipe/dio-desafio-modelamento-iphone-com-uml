@@ -67,7 +67,7 @@ O projeto foi estruturado de modo que:
 |--|--|--|
 |IPhone| `IPhoneDevice`|Representa o telefone. Acessa todos os recursos pelo método `main()`.
 |Features|`AparelhoTelefonico`,  `NavegadorInternet`,  `ReprodutorMusical`|Organiza as Interfaces de serviços disponíveis.
-|Apps|`Chrome`,  `Edge`,  `Opera`, `SoundCloud`,  `Spotfy`,  `YouTube Music`, `eSIM_1`,  `eSIM_2`| Organiza os aplicativos existentes no IPhone.
+|Apps|`Chrome`,  `Edge`,  `Opera`, `SoundCloud`,  `Spotify`,  `YouTube Music`, `eSIM_1`,  `eSIM_2`| Organiza os aplicativos existentes no IPhone.
 
 ##  Resultados
 
@@ -76,9 +76,9 @@ O projeto foi estruturado de modo que:
     Tocando musica pelo SoundCloud
     Pausando musica pelo SoundCloud
     Selecionando musica Lamb of God - Black Label no SoundCloud
-    Tocando musica pelo Spotfy
-    Pausando musica pelo Spotfy
-    Selecionando musica Lamb of God - Hourglass no Spotfy
+    Tocando musica pelo Spotify
+    Pausando musica pelo Spotify
+    Selecionando musica Lamb of God - Hourglass no Spotify
     Tocando musica pelo YouTube Music
     Pausando musica pelo YouTube Music
     Selecionando musica Soufly - Frontlines no YouTube Music
